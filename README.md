@@ -8,7 +8,7 @@
 
 <!-- GitHub Stats -->
 ![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=trjdsk&show_icons=true&theme=default](https://github-readme-stats.vercel.app/api?username=trjdsk&show_icons=true&theme=default
-))  
+)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trjdsk&theme=default)
 
 
